@@ -1,0 +1,121 @@
+[
+ {
+  "nom": "chapeau",
+  "prix": "85",
+  "quantit\u00e9": "3"
+ },
+ {
+  "nom": "chaussure",
+  "prix": "52",
+  "quantit\u00e9": "4"
+ },
+ {
+  "nom": "jupe",
+  "prix": "100",
+  "quantit\u00e9": "2"
+ },
+ {
+  "nom": "chemise",
+  "prix": "200",
+  "quantit\u00e9": "1"
+ },
+ {
+  "nom": "kilato",
+  "prix": "63",
+  "quantit\u00e9": "3"
+ },
+ {
+  "nom": "soulier",
+  "prix": "120",
+  "quantit\u00e9": "3"
+ },
+ {
+  "nom": "montre",
+  "prix": "520",
+  "quantit\u00e9": "6"
+ },
+ {
+  "id article": 1,
+  "nom": "rolex",
+  "prix": "800",
+  "quantit\u00e9": "7"
+ },
+ {
+  "id article": 1,
+  "nom": "pantalon",
+  "prix": "720",
+  "quantit\u00e9": "7"
+ },
+ {
+  "id article": 1,
+  "nom": "nike",
+  "prix": "96",
+  "quantit\u00e9": "8"
+ },
+ {
+  "id article": 1,
+  "nom": "pull",
+  "prix": "600",
+  "quantit\u00e9": "6"
+ },
+ {
+  "id article": 2,
+  "nom": "cagoul",
+  "prix": "231",
+  "quantit\u00e9": "9"
+ },
+ {
+  "id article": 2,
+  "nom": "adidas",
+  "prix": "852",
+  "quantit\u00e9": "7"
+ },
+ {
+  "id article": 1,
+  "nom": "jean",
+  "prix": "635",
+  "quantit\u00e9": "3"
+ },
+ {
+  "id article": 1,
+  "nom": "training",
+  "prix": "555",
+  "quantit\u00e9": "6"
+ },
+ {
+  "id article": 1,
+  "nom": "veste",
+  "prix": "10000",
+  "quantit\u00e9": "56"
+ },
+ {
+  "id article": 1,
+  "nom": "vans",
+  "prix": "589",
+  "quantit\u00e9": "24"
+ },
+ {
+  "id article": 18,
+  "nom": "chanel",
+  "prix": "541",
+  "quantit\u00e9": "3"
+ },
+ {
+  "id article": 2,
+  "nom": "babouche",
+  "prix": "55",
+  "quantit\u00e9": "665"
+ },
+ {
+  "id article": 21,
+  "nom": "chemise courte",
+  "prix": "587",
+  "quantit\u00e9": "4"
+ },
+ {
+  "id article": 2,
+  "nom": "colier",
+  "prix": "60",
+  "quantit\u00e9": "9"
+ }
+]
